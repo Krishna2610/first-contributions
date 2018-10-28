@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Anushree](https://github.com/anushree816)
 - [gilded1](https://github.com/gilded1)
@@ -9444,6 +9444,7 @@ Rohan Das
 - [Michael Hoang](https://github.com/Quang810)
 - [dtrac](https://github.com/dtrac)
 - [Sriram S. Niar](https://github.com/sriramsnair)
+- [Krishna Nanda](https://github.com/Krishna2610)
 - [Tan Nguyen](https://github.com/ngtan)
 - [Bhavy Singh](https://github.com/bhavybarca)
 - [Tom Braul](https://github.com/tombraul)
